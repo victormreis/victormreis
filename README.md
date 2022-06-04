@@ -3,7 +3,7 @@
 ### Quem é o victor? | Who is Victor?
 * ⚡ Formado em análise e desenvolvimento de sistemas | Graduate in systems analysis and development
 
-* 🌱 Desenvolvedor Java junior Full Stack | Java Jr full Stack Developer
+* 🌱 Desenvolvedor Web Java junior Full Stack | Java Jr Web full Stack Developer
 
 
 
