@@ -2,7 +2,7 @@
 
 ### Quem é o victor? | Who is Victor?
 
-* 💻 Atuando como desenvolvedor Front-end Junior na Ottimizza Automação Contábil| Working as a Junior Frontend Developer at Ottimizza Automação Contábil
+* 💻 Atuando como desenvolvedor Front-end Junior na Ottimizza Automação Contábil | Working as a Junior Frontend Developer at Ottimizza Automação Contábil
 
 * ⚡ Formado em análise e desenvolvimento de sistemas | Graduate in systems analysis and development
 
