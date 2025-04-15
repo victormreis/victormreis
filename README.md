@@ -2,7 +2,9 @@
 
 ### Quem é o victor? | Who is Victor?
 
-* 💻 Atuando como desenvolvedor Front-end  | Working as Frontend Developer 
+* 📚 Cursando Web Development and Internet Applications no Fanshawe College 🍁 | Studying Web Development and Internet Applications at Fanshawe College
+
+* 💻 Experiencia: 2 anos como desenvolvedor Front-end Angular  | Experience: 2 years as a Front-end Developer with Angular
 
 * ⚡ Formado em análise e desenvolvimento de sistemas | Graduate in systems analysis and development
 
