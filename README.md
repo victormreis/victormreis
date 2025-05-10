@@ -1,15 +1,31 @@
-## Olá, Eu sou Victor Martins | Hello I'm Victor Martins
+# 👨‍💻 Victor Martins
 
-### Quem é o victor? | Who is Victor?
+### Full Stack Developer | Focused on Java & Angular | Based in Canada 🍁
 
-* 📚 Cursando Web Development and Internet Applications no Fanshawe College 🍁 | Studying Web Development and Internet Applications at Fanshawe College
+---
 
-* 💻 Experiencia: 2 anos como desenvolvedor Front-end Angular  | Experience: 2 years as a Front-end Developer with Angular
+## 👋 About Me
 
-* ⚡ Formado em análise e desenvolvimento de sistemas | Graduate in systems analysis and development
+I'm a passionate Full Stack Developer currently studying **Web Development and Internet Applications at Fanshawe College** in London, Ontario 🇨🇦.  
+Involved with technology since 2020, and with **3 years of experience as a Front-End Developer using Angular**, I am now expanding my skills into backend development using **Java, Spring Boot, and SQL**.
 
-* 🌱 Bootcamp Desenvolvedor Web Java junior Full Stack | Java Jr Web full Stack Developer Bootcamp
 
+---
+
+## 📚 Continuous Learning
+
+I strongly believe in lifelong learning and constantly update my skills through online platforms like:
+
+- 🎓 **Alura**: Your complete Java career path on Alura
+- **Bootcamp**: Java Jr Web Full Stack Developer  
+- 🛠️ **Courses**: Spring Boot, REST APIs, Git & GitHub, MySQL, Clean Architecture  
+- 📺 **YouTube & Documentations** – Building side projects and contributing on GitHub
+
+---
+
+
+
+## 📈 GitHub Metrics
 
 <div align="center">
   <a href="https://github.com/victormreis">
@@ -19,6 +35,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=victormreis&theme=tokyonight" alt="Github estatísticas"/>
 
 </div>
+
+## 🚀 Skills & Technologies
 
 <div align="center">
 <div style="display: inline_block"><br/>
